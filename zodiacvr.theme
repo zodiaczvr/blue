@@ -1,4 +1,14 @@
-@import url('https://github.com/zodiaczvr/blue/blob/main/zodiacvr.home');
+/**
+ * @name zodiaczvr tek
+ * @author zodyvr
+ * @authorId 309931975102300160
+ * @authorLink ?
+ * @version 1.2.1
+ * @description A sleek, customizable Discord theme.
+ * @updateUrl ?
+ * @invite caAsUdtQbx
+*/
+
 @import url('https://github.com/zodiaczvr/blue/blob/main/zodiaczvr.base');
 @import url(https://github.com/zodiaczvr/blue/blob/main/zodiaczvr.theme.level');
 @import url(https://github.com/zodiaczvr/blue/blob/main/zodiacvr.css');
