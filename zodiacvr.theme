@@ -9,6 +9,6 @@
  * @invite caAsUdtQbx
 */
 
-@import url('https://github.com/zodiaczvr/blue/blob/main/zodiaczvr.base');
 @import url(https://github.com/zodiaczvr/blue/blob/main/zodiaczvr.theme.level');
+@import url('https://github.com/zodiaczvr/blue/blob/main/zodiaczvr.base');
 @import url(https://github.com/zodiaczvr/blue/blob/main/zodiacvr.css');
