@@ -9,7 +9,7 @@
  * @invite caAsUdtQbx
 */
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani');
-@import url('https://patrykbielanin.github.io/discord-cyberpunk2077-theme/base.css');
+@import url('https://github.com/zodiaczvr/blue/blob/main/zodiaczvr.base');
 
 /* I've commented most of these values so you can change them yourself. If you're having trouble, or you want to do more than what these values allow for, a volunteer might be able to help you in my server. */
 
