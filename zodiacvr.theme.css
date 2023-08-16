@@ -10,7 +10,7 @@
 */
 
 @import url('https://github.com/zodiaczvr/blue/blob/main/zodiaczvr.base.css');
-@import url('https://github.com/zodiaczvr/blue/blob/main/zodiacvr.css2');
+@import url('https://github.com/zodiaczvr/blue/blob/main/zodiacvr.css');
 
 :root {
     --background-primary: linear-gradient(180deg, rgba(23,0,5,.75) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
