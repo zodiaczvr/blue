@@ -9,7 +9,7 @@
  * @invite caAsUdtQbx
 */
 
-@import url(https://github.com/zodiaczvr/blue/blob/main/zodiacvr.css');
+@import url('https://github.com/zodiaczvr/blue/blob/main/zodiacvr.css');
 @import url('https://github.com/zodiaczvr/blue/blob/main/zodiaczvr.base');
 
 .theme-dark {
